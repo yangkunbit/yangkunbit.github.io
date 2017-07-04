@@ -75,7 +75,7 @@ header{
 	height: 40px;
 }
 .top-left{
-	background-image: url(img/page.gif);
+	background-image: url(../img/page.gif);
 	width: 641px;
 	height: 301px;
 	float: left;
@@ -240,7 +240,7 @@ header{
 	width: 458px;
 }
 .bottom-cover-left{
-	background-image: url(img/img3.png);
+	background-image: url(../img/img3.png);
 	width: 458px;
 	height: 275px;
 	background-size: cover;
@@ -280,7 +280,7 @@ header{
 .bottom-bottom  ul {
     line-height: 36px;
     color: #5a5b5b;
-    list-style: square inside url("img/list.png");
+    list-style: square inside url("../img/list.png");
     margin-left: 30px;
     padding-top: 30px;
 }
